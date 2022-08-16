@@ -1,0 +1,15 @@
+B:\ПДП.03\TestingApp\TestingApp\bin\Debug\TestingApp.exe.config
+B:\ПДП.03\TestingApp\TestingApp\bin\Debug\TestingApp.exe
+B:\ПДП.03\TestingApp\TestingApp\bin\Debug\TestingApp.pdb
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\Oprosnik.csprojAssemblyReference.cache
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Login.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Properties.Resources.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Psycholog.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Reg.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Result.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.Student.resources
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\Oprosnik.csproj.GenerateResource.cache
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\Oprosnik.csproj.CoreCompileInputs.cache
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.exe
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\TestingApp.pdb
+B:\ПДП.03\TestingApp\TestingApp\obj\Debug\Oprosnik.csproj.ResolveComReference.cache

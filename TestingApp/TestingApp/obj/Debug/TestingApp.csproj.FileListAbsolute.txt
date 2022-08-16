@@ -1,0 +1,13 @@
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\bin\Debug\TestingApp.exe.config
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\bin\Debug\TestingApp.exe
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\bin\Debug\TestingApp.pdb
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Properties.Resources.resources
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.csproj.GenerateResource.Cache
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.exe
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.pdb
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Login.resources
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Reg.resources
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Psycholog.resources
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Student.resources
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.csprojResolveAssemblyReference.cache
+G:\Тест Вагнера\TestingSystem\TestingApp\TestingApp\obj\Debug\TestingApp.Result.resources
